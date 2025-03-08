@@ -1,2 +1,3 @@
-# Page-View-Time-Series-Visualizer-using-python
-A Python-based project to analyze and visualize web page traffic trends over time. It preprocesses time-series data, detects anomalies, and generates insights using line charts, box plots, and moving averages. Built with Matplotlib and Seaborn, it helps in website analytics, forecasting, and trend analysis.
+# Page View Time Series Visualizer
+
+This is the boilerplate for the Page View Time Series Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
